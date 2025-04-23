@@ -1,5 +1,7 @@
 # Pokémon Favorites App 
+![Captura de tela 2025-04-23 185940](https://github.com/user-attachments/assets/e5eb8067-681f-4502-84a1-90d86a7f8962)
 
+![Captura de tela 2025-04-23 190001](https://github.com/user-attachments/assets/5162f714-4f49-445c-9014-7fa00db194d8)
 
 
 
